@@ -1,0 +1,7 @@
+C:\Users\Ethan\workspace\Lab_Repos\Linq_Lab\Linq_Lab\bin\Debug\Linq_Lab.exe.config
+C:\Users\Ethan\workspace\Lab_Repos\Linq_Lab\Linq_Lab\bin\Debug\Linq_Lab.exe
+C:\Users\Ethan\workspace\Lab_Repos\Linq_Lab\Linq_Lab\bin\Debug\Linq_Lab.pdb
+C:\Users\Ethan\workspace\Lab_Repos\Linq_Lab\Linq_Lab\obj\Debug\Linq_Lab.csproj.AssemblyReference.cache
+C:\Users\Ethan\workspace\Lab_Repos\Linq_Lab\Linq_Lab\obj\Debug\Linq_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\workspace\Lab_Repos\Linq_Lab\Linq_Lab\obj\Debug\Linq_Lab.exe
+C:\Users\Ethan\workspace\Lab_Repos\Linq_Lab\Linq_Lab\obj\Debug\Linq_Lab.pdb
